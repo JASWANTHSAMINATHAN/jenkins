@@ -6,7 +6,7 @@ pipeline {
         REGISTRY = "docker.io"
         DOCKER_CREDENTIALS_ID = "dockerhub"
         GITHUB_CREDENTIALS_ID = "github"
-        APP_DIR = "C:\Users\jasja\OneDrive\Desktop\Projects\Docker\Jenkins-main\Jenkins-main"
+        APP_DIR = "C:\\Users\\jasja\\OneDrive\\Desktop\\Projects\\Docker\\Jenkins-main\\Jenkins-main"
     }
 
     stages {
